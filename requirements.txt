@@ -1,4 +1,4 @@
 streamlit
-tradingview-ta
 pandas
 plotly
+tradingview-ta
