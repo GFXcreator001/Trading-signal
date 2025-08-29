@@ -1,6 +1,0 @@
-
-streamlit
-tradingview_ta
-pandas
-ta
-requests
